@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **s.pammi.22g@gmail.com**
 
-- 📄 Know about my experiences [https://parminder-singh-97.github.io/My-Portfolio-Website/assets/download/resume.pdf](https://parminder-singh-97.github.io/My-Portfolio-Website/assets/download/resume.pdf)
+- 📄 Know about my experiences [https://parminder-singh-97.github.io/My-Portfolio-Website/assets/download/resume.pdf](https://my-portfolio-reactjs-nine.vercel.app/download/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
