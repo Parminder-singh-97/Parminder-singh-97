@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **reactjs**
 
-- 👨‍💻 All of my projects are available at [https://parminder-singh-97.github.io/My-Portfolio-Website/index.html](https://my-portfolio-reactjs-nine.vercel.app/assets/download/resume.pdf)
+- 👨‍💻 All of my projects are available at [https://parminder-singh-97.github.io/My-Portfolio-Website/index.html](https://my-portfolio-reactjs-nine.vercel.app/)
 
 - 📫 How to reach me **s.pammi.22g@gmail.com**
 
